@@ -8,8 +8,8 @@ import (
 	"io"
 	"strconv"
 
-	"github.com/RoaringBitmap/roaring/v2"
-	"github.com/RoaringBitmap/roaring/v2/internal"
+	"github.com/customerio/roaring/v2"
+	"github.com/customerio/roaring/v2/internal"
 )
 
 const (
