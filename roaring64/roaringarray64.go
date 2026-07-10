@@ -3,7 +3,7 @@ package roaring64
 import (
 	"errors"
 
-	"github.com/RoaringBitmap/roaring/v2"
+	"github.com/customerio/roaring/v2"
 )
 
 type roaringArray64 struct {

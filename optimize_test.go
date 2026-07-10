@@ -1,7 +1,7 @@
 package roaring_test
 
 import (
-	"github.com/RoaringBitmap/roaring/v2"
+	"github.com/customerio/roaring/v2"
 	"testing"
 )
 
