@@ -1,6 +1,6 @@
 package roaring64
 
-import "github.com/RoaringBitmap/roaring/v2"
+import "github.com/customerio/roaring/v2"
 
 // EachPage invokes fn once per non-empty 2^16-aligned page (page = value>>16) in
 // ascending order, passing a freshly cloned single-page bitmap. A page maps 1:1 to
